@@ -56,7 +56,7 @@ This project got the runner-up position in [WIT2020: The 7th World Innovative Te
 ---
 ## Author Info
 
-- instagram - [daffeydwilbert](https://www.instagram.com/daffeydwilbert/)
+- Instagram - [daffeydwilbert](https://www.instagram.com/daffeydwilbert/)
 - Email - daffeydwilbert@gmail.com
 
 [Back To The Top](#smart-city-health-protocol-system)
