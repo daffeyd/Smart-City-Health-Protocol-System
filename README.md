@@ -49,7 +49,7 @@ Report example:
 
 This project got the runner-up position in [WIT2020: The 7th World Innovative Technology Challenge 2020](https://ausrobotics.org/events/wit2020/)
 
-<img src="Assets/cert.jpg" width="250" align="center">
+<img src="Assets/cert.jpeg" width="250" align="center">
 
 [Back To The Top](#smart-city-health-protocol-system)
 
