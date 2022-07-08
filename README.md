@@ -21,11 +21,17 @@ This project helps environtment developer to control some place in one area, thi
 This Project 2 Raspberry Pi sets that include camera and speakers, the Raspberry Pi camera sending picture to the main computer to make mask detection using deep learning, and also detecting number of person in one place, the data that have been collected it will be stored in database, the raspberry also can acces the databases to make action like warning, the data in the databases also can beshown in the website that can be show in the monitor.
 These are some example of the monitoring UI :
 Train UI Example :
+
 <img src="Assets/trainUI.png">
+
 Mall UI Example :
+
 <img src="Assets/mallUI.png">
+
 Report example:
+
 <img src="Assets/report.png">
+
 #### Technologies
 
 - Deep Learning
