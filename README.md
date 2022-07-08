@@ -26,11 +26,11 @@ Train UI Example :
 
 Mall UI Example :
 
-<img src="Assets/mallUI.png">
+<img src="Assets/mallUI1.png">
 
 Report example:
 
-<img src="Assets/report.png">
+<img src="Assets/report.png" width="400">
 
 #### Technologies
 
