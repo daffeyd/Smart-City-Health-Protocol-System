@@ -1,7 +1,7 @@
 
 # Smart City Health Protocol System 
 
-This project helps environtment developer to control some place in one area, this system detecting the violation of not wearing a mask, and count the capacity person in one place, this system also can make a report to nearby officer by Telegram Bot to make further action.
+This project helps environment developer to control several places in one area, this system will detect the violation of not wearing a mask and count the capacity of people in one place. This system can also file a report to nearby officer by Telegram Bot to make further action.
 
 ![Project Image](Assets/cover.png)
 
@@ -18,7 +18,7 @@ This project helps environtment developer to control some place in one area, thi
 
 ## Description
 
-This Project 2 Raspberry Pi sets that include camera and speakers, the Raspberry Pi camera sending picture to the main computer to make mask detection using deep learning, and also detecting number of person in one place, the data that have been collected it will be stored in database, the raspberry also can acces the databases to make action like warning, the data in the databases also can beshown in the website that can be show in the monitor.
+This Project uses 2 Raspberry Pi sets that include camera and speakers. The Raspberry Pi camera will send pictures to the main computer to analyze the mask usage using deep learning and also detect the number of person in one place. The data that have been collected will be stored in database. The raspberry can also access the databases to make action like warning, the data in the databases can also be shown in the website.
 These are some example of the monitoring UI :
 Train UI Example :
 
